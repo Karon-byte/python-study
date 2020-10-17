@@ -1,2 +1,2 @@
 ﻿mg = "hello"
-print(mg)
+print(mg*3)
