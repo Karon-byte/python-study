@@ -1,0 +1,2 @@
+﻿mg = "hello"
+print(mg)
